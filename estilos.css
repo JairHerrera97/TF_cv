@@ -13,7 +13,10 @@ h3{
     color: grey;
     text-align: left;
 }
-
+footer{
+    font-size: larger;
+    font-style: italic;
+}
 .fotito{
     width: 18%;
     margin-left: auto;
@@ -48,7 +51,7 @@ div{
 .pieCV{
     font-size: larger;
     font-style: unset;
-    color: rgb(165, 154, 235);
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 h1.over{
